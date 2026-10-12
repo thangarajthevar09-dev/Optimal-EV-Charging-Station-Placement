@@ -1,0 +1,13 @@
+ID,Candidate area,Traffic,Existing coverage,Travel demand,Grid capacity,Illustrative cost units,Planning note,X_km_illustrative,Y_km_illustrative
+L1,Nerul Railway Station,High,Low,High,High,18,Priority candidate,2.0,2.0
+L2,Juinagar Station Area,High,Low,Medium,High,16,Priority candidate,1.0,1.0
+L3,CBD Belapur Transit Hub,High,Medium,Medium,High,20,Transit demand candidate,4.0,1.0
+L4,Seawoods Residential/Commercial,High,Medium,Medium,Medium,17,Review coverage overlap,3.0,2.0
+L5,Turbhe Industrial Area,Medium,Low,High,Medium,14,Check fleet demand,0.0,3.0
+L6,Kharghar Central Area,High,Medium,Medium,Medium,19,Review equity benefit,5.0,3.0
+L7,Vashi Market/Transit Area,High,High,Medium,Low,21,Defer pending grid review,-1.0,2.0
+L8,Airoli Office/Residential Area,Medium,Medium,Medium,Medium,15,Reserve candidate,-2.0,4.0
+L9,Sanpada Transit Area,Medium,Low,Medium,High,13,Potential gap coverage,0.5,0.5
+L10,Ghansoli Residential Area,Medium,Low,High,Medium,16,Demand-oriented candidate,-1.5,5.0
+L11,Kopar Khairane Commercial Area,High,Medium,High,High,19,Mixed-use demand candidate,-0.5,4.0
+L12,Ulwe Growth Area,Medium,Low,Medium,Medium,14,Equity and future growth candidate,5.5,-1.0

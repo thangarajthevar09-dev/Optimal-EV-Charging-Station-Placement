@@ -1,0 +1,17 @@
+Zone_ID,Demand zone,X_km_illustrative,Y_km_illustrative,Demand_weight_illustrative,Demand_level
+Z01,Nerul North,1.5,2.5,90,High
+Z02,Nerul South,2.3,1.5,75,High
+Z03,Juinagar East,0.5,1.2,70,High
+Z04,Sanpada Central,0.0,0.0,65,Medium
+Z05,Turbhe Industrial,0.0,3.5,95,High
+Z06,Vashi West,-1.2,2.0,85,High
+Z07,Airoli North,-2.2,4.8,80,High
+Z08,Ghansoli Central,-1.0,5.0,75,High
+Z09,CBD Belapur,4.0,0.5,80,High
+Z10,Seawoods West,2.8,2.5,70,Medium
+Z11,Kharghar Central,5.0,3.2,90,High
+Z12,Ulwe Growth Zone,5.5,-1.2,60,Medium
+Z13,Belapur East,4.8,1.0,55,Medium
+Z14,Kopar Khairane,-0.5,4.0,85,High
+Z15,Residential Gap A,3.7,4.5,45,Low
+Z16,Residential Gap B,1.0,-0.5,40,Low

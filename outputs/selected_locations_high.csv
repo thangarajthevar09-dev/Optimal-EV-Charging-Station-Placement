@@ -1,0 +1,7 @@
+ID,Candidate area,Traffic,Existing coverage,Travel demand,Grid capacity,Illustrative cost units,Planning note,X_km_illustrative,Y_km_illustrative,Traffic_score,Existing_coverage_score,Travel_demand_score,Grid_capacity_score,Priority_score,Grid_feasible,Score_per_cost,Selection_order
+L5,Turbhe Industrial Area,Medium,Low,High,Medium,14,Check fleet demand,0.0,3.0,2,1,3,2,88.33333333333331,True,6.309523809523808,1
+L3,CBD Belapur Transit Hub,High,Medium,Medium,High,20,Transit demand candidate,4.0,1.0,3,2,2,3,78.33333333333333,True,3.9166666666666665,2
+L8,Airoli Office/Residential Area,Medium,Medium,Medium,Medium,15,Reserve candidate,-2.0,4.0,2,2,2,2,66.66666666666666,True,4.444444444444444,3
+L9,Sanpada Transit Area,Medium,Low,Medium,High,13,Potential gap coverage,0.5,0.5,2,1,2,3,81.66666666666667,True,6.282051282051283,4
+L6,Kharghar Central Area,High,Medium,Medium,Medium,19,Review equity benefit,5.0,3.0,3,2,2,2,73.33333333333333,True,3.859649122807017,5
+L12,Ulwe Growth Area,Medium,Low,Medium,Medium,14,Equity and future growth candidate,5.5,-1.0,2,1,2,2,76.66666666666666,True,5.476190476190475,6

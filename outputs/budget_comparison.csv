@@ -1,0 +1,4 @@
+Budget_scenario,Budget_units_illustrative,Stations_selected,Cost_used_units,Budget_remaining_units,Demand_zones_covered,Demand_zones_total,Demand_weight_covered,Demand_weight_total,Weighted_coverage_percent_proxy,Zone_count_coverage_percent_proxy,Utilization_percent_proxy,Selected_areas
+Low,35,2,34.0,1.0,9,16,705.0,1160.0,60.8,56.2,76.7,Turbhe Industrial Area; CBD Belapur Transit Hub
+Medium,65,4,62.0,3.0,13,16,965.0,1160.0,83.2,81.2,72.5,Turbhe Industrial Area; CBD Belapur Transit Hub; Airoli Office/Residential Area; Sanpada Transit Area
+High,110,6,95.0,15.0,16,16,1160.0,1160.0,100.0,100.0,71.1,Turbhe Industrial Area; CBD Belapur Transit Hub; Airoli Office/Residential Area; Sanpada Transit Area; Kharghar Central Area; Ulwe Growth Area

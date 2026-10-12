@@ -1,0 +1,12 @@
+PROJECT CHECKLIST
+[✓] Python implementation
+[✓] Candidate-location dataset (illustrative)
+[✓] Synthetic demand-zone dataset (illustrative)
+[✓] Priority scoring and grid feasibility
+[✓] Budget-based greedy selection
+[✓] Candidate-zone distance/coverage table
+[✓] Low/medium/high scenario comparison
+[✓] Selected station CSVs for each scenario
+[✓] Seven generated charts
+[✓] Results summary and methodology
+[!] Replace illustrative data with verified data before making real-world claims.

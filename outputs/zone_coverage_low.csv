@@ -1,0 +1,17 @@
+Zone_ID,Demand zone,X_km_illustrative,Y_km_illustrative,Demand_weight_illustrative,Demand_level,Covered,Nearest_selected_distance_km_illustrative,Covered_demand_weight
+Z01,Nerul North,1.5,2.5,90,High,True,1.5811388300841898,90
+Z02,Nerul South,2.3,1.5,75,High,True,1.7720045146669352,75
+Z03,Juinagar East,0.5,1.2,70,High,True,1.8681541692269406,70
+Z04,Sanpada Central,0.0,0.0,65,Medium,False,3.0,0
+Z05,Turbhe Industrial,0.0,3.5,95,High,True,0.5,95
+Z06,Vashi West,-1.2,2.0,85,High,True,1.5620499351813308,85
+Z07,Airoli North,-2.2,4.8,80,High,False,2.842534080710379,0
+Z08,Ghansoli Central,-1.0,5.0,75,High,False,2.23606797749979,0
+Z09,CBD Belapur,4.0,0.5,80,High,True,0.5,80
+Z10,Seawoods West,2.8,2.5,70,Medium,True,1.9209372712298547,70
+Z11,Kharghar Central,5.0,3.2,90,High,False,2.4166091947189146,0
+Z12,Ulwe Growth Zone,5.5,-1.2,60,Medium,False,2.6627053911388696,0
+Z13,Belapur East,4.8,1.0,55,Medium,True,0.7999999999999998,55
+Z14,Kopar Khairane,-0.5,4.0,85,High,True,1.118033988749895,85
+Z15,Residential Gap A,3.7,4.5,45,Low,False,3.5128336140500593,0
+Z16,Residential Gap B,1.0,-0.5,40,Low,False,3.3541019662496847,0

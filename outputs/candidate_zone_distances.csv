@@ -1,0 +1,193 @@
+Candidate_ID,Candidate_area,Zone_ID,Demand_zone,Distance_km_illustrative,Within_radius,Demand_weight_illustrative
+L1,Nerul Railway Station,Z01,Nerul North,0.707,True,90
+L1,Nerul Railway Station,Z02,Nerul South,0.583,True,75
+L1,Nerul Railway Station,Z03,Juinagar East,1.7,True,70
+L1,Nerul Railway Station,Z04,Sanpada Central,2.828,False,65
+L1,Nerul Railway Station,Z05,Turbhe Industrial,2.5,False,95
+L1,Nerul Railway Station,Z06,Vashi West,3.2,False,85
+L1,Nerul Railway Station,Z07,Airoli North,5.048,False,80
+L1,Nerul Railway Station,Z08,Ghansoli Central,4.243,False,75
+L1,Nerul Railway Station,Z09,CBD Belapur,2.5,False,80
+L1,Nerul Railway Station,Z10,Seawoods West,0.943,True,70
+L1,Nerul Railway Station,Z11,Kharghar Central,3.231,False,90
+L1,Nerul Railway Station,Z12,Ulwe Growth Zone,4.742,False,60
+L1,Nerul Railway Station,Z13,Belapur East,2.973,False,55
+L1,Nerul Railway Station,Z14,Kopar Khairane,3.202,False,85
+L1,Nerul Railway Station,Z15,Residential Gap A,3.023,False,45
+L1,Nerul Railway Station,Z16,Residential Gap B,2.693,False,40
+L2,Juinagar Station Area,Z01,Nerul North,1.581,True,90
+L2,Juinagar Station Area,Z02,Nerul South,1.393,True,75
+L2,Juinagar Station Area,Z03,Juinagar East,0.539,True,70
+L2,Juinagar Station Area,Z04,Sanpada Central,1.414,True,65
+L2,Juinagar Station Area,Z05,Turbhe Industrial,2.693,False,95
+L2,Juinagar Station Area,Z06,Vashi West,2.417,False,85
+L2,Juinagar Station Area,Z07,Airoli North,4.968,False,80
+L2,Juinagar Station Area,Z08,Ghansoli Central,4.472,False,75
+L2,Juinagar Station Area,Z09,CBD Belapur,3.041,False,80
+L2,Juinagar Station Area,Z10,Seawoods West,2.343,False,70
+L2,Juinagar Station Area,Z11,Kharghar Central,4.565,False,90
+L2,Juinagar Station Area,Z12,Ulwe Growth Zone,5.009,False,60
+L2,Juinagar Station Area,Z13,Belapur East,3.8,False,55
+L2,Juinagar Station Area,Z14,Kopar Khairane,3.354,False,85
+L2,Juinagar Station Area,Z15,Residential Gap A,4.42,False,45
+L2,Juinagar Station Area,Z16,Residential Gap B,1.5,True,40
+L3,CBD Belapur Transit Hub,Z01,Nerul North,2.915,False,90
+L3,CBD Belapur Transit Hub,Z02,Nerul South,1.772,True,75
+L3,CBD Belapur Transit Hub,Z03,Juinagar East,3.506,False,70
+L3,CBD Belapur Transit Hub,Z04,Sanpada Central,4.123,False,65
+L3,CBD Belapur Transit Hub,Z05,Turbhe Industrial,4.717,False,95
+L3,CBD Belapur Transit Hub,Z06,Vashi West,5.295,False,85
+L3,CBD Belapur Transit Hub,Z07,Airoli North,7.272,False,80
+L3,CBD Belapur Transit Hub,Z08,Ghansoli Central,6.403,False,75
+L3,CBD Belapur Transit Hub,Z09,CBD Belapur,0.5,True,80
+L3,CBD Belapur Transit Hub,Z10,Seawoods West,1.921,True,70
+L3,CBD Belapur Transit Hub,Z11,Kharghar Central,2.417,False,90
+L3,CBD Belapur Transit Hub,Z12,Ulwe Growth Zone,2.663,False,60
+L3,CBD Belapur Transit Hub,Z13,Belapur East,0.8,True,55
+L3,CBD Belapur Transit Hub,Z14,Kopar Khairane,5.408,False,85
+L3,CBD Belapur Transit Hub,Z15,Residential Gap A,3.513,False,45
+L3,CBD Belapur Transit Hub,Z16,Residential Gap B,3.354,False,40
+L4,Seawoods Residential/Commercial,Z01,Nerul North,1.581,True,90
+L4,Seawoods Residential/Commercial,Z02,Nerul South,0.86,True,75
+L4,Seawoods Residential/Commercial,Z03,Juinagar East,2.625,False,70
+L4,Seawoods Residential/Commercial,Z04,Sanpada Central,3.606,False,65
+L4,Seawoods Residential/Commercial,Z05,Turbhe Industrial,3.354,False,95
+L4,Seawoods Residential/Commercial,Z06,Vashi West,4.2,False,85
+L4,Seawoods Residential/Commercial,Z07,Airoli North,5.906,False,80
+L4,Seawoods Residential/Commercial,Z08,Ghansoli Central,5.0,False,75
+L4,Seawoods Residential/Commercial,Z09,CBD Belapur,1.803,True,80
+L4,Seawoods Residential/Commercial,Z10,Seawoods West,0.539,True,70
+L4,Seawoods Residential/Commercial,Z11,Kharghar Central,2.332,False,90
+L4,Seawoods Residential/Commercial,Z12,Ulwe Growth Zone,4.061,False,60
+L4,Seawoods Residential/Commercial,Z13,Belapur East,2.059,False,55
+L4,Seawoods Residential/Commercial,Z14,Kopar Khairane,4.031,False,85
+L4,Seawoods Residential/Commercial,Z15,Residential Gap A,2.596,False,45
+L4,Seawoods Residential/Commercial,Z16,Residential Gap B,3.202,False,40
+L5,Turbhe Industrial Area,Z01,Nerul North,1.581,True,90
+L5,Turbhe Industrial Area,Z02,Nerul South,2.746,False,75
+L5,Turbhe Industrial Area,Z03,Juinagar East,1.868,True,70
+L5,Turbhe Industrial Area,Z04,Sanpada Central,3.0,False,65
+L5,Turbhe Industrial Area,Z05,Turbhe Industrial,0.5,True,95
+L5,Turbhe Industrial Area,Z06,Vashi West,1.562,True,85
+L5,Turbhe Industrial Area,Z07,Airoli North,2.843,False,80
+L5,Turbhe Industrial Area,Z08,Ghansoli Central,2.236,False,75
+L5,Turbhe Industrial Area,Z09,CBD Belapur,4.717,False,80
+L5,Turbhe Industrial Area,Z10,Seawoods West,2.844,False,70
+L5,Turbhe Industrial Area,Z11,Kharghar Central,5.004,False,90
+L5,Turbhe Industrial Area,Z12,Ulwe Growth Zone,6.92,False,60
+L5,Turbhe Industrial Area,Z13,Belapur East,5.2,False,55
+L5,Turbhe Industrial Area,Z14,Kopar Khairane,1.118,True,85
+L5,Turbhe Industrial Area,Z15,Residential Gap A,3.992,False,45
+L5,Turbhe Industrial Area,Z16,Residential Gap B,3.64,False,40
+L6,Kharghar Central Area,Z01,Nerul North,3.536,False,90
+L6,Kharghar Central Area,Z02,Nerul South,3.089,False,75
+L6,Kharghar Central Area,Z03,Juinagar East,4.847,False,70
+L6,Kharghar Central Area,Z04,Sanpada Central,5.831,False,65
+L6,Kharghar Central Area,Z05,Turbhe Industrial,5.025,False,95
+L6,Kharghar Central Area,Z06,Vashi West,6.28,False,85
+L6,Kharghar Central Area,Z07,Airoli North,7.422,False,80
+L6,Kharghar Central Area,Z08,Ghansoli Central,6.325,False,75
+L6,Kharghar Central Area,Z09,CBD Belapur,2.693,False,80
+L6,Kharghar Central Area,Z10,Seawoods West,2.256,False,70
+L6,Kharghar Central Area,Z11,Kharghar Central,0.2,True,90
+L6,Kharghar Central Area,Z12,Ulwe Growth Zone,4.23,False,60
+L6,Kharghar Central Area,Z13,Belapur East,2.01,False,55
+L6,Kharghar Central Area,Z14,Kopar Khairane,5.59,False,85
+L6,Kharghar Central Area,Z15,Residential Gap A,1.985,True,45
+L6,Kharghar Central Area,Z16,Residential Gap B,5.315,False,40
+L7,Vashi Market/Transit Area,Z01,Nerul North,2.55,False,90
+L7,Vashi Market/Transit Area,Z02,Nerul South,3.338,False,75
+L7,Vashi Market/Transit Area,Z03,Juinagar East,1.7,True,70
+L7,Vashi Market/Transit Area,Z04,Sanpada Central,2.236,False,65
+L7,Vashi Market/Transit Area,Z05,Turbhe Industrial,1.803,True,95
+L7,Vashi Market/Transit Area,Z06,Vashi West,0.2,True,85
+L7,Vashi Market/Transit Area,Z07,Airoli North,3.046,False,80
+L7,Vashi Market/Transit Area,Z08,Ghansoli Central,3.0,False,75
+L7,Vashi Market/Transit Area,Z09,CBD Belapur,5.22,False,80
+L7,Vashi Market/Transit Area,Z10,Seawoods West,3.833,False,70
+L7,Vashi Market/Transit Area,Z11,Kharghar Central,6.119,False,90
+L7,Vashi Market/Transit Area,Z12,Ulwe Growth Zone,7.245,False,60
+L7,Vashi Market/Transit Area,Z13,Belapur East,5.886,False,55
+L7,Vashi Market/Transit Area,Z14,Kopar Khairane,2.062,False,85
+L7,Vashi Market/Transit Area,Z15,Residential Gap A,5.324,False,45
+L7,Vashi Market/Transit Area,Z16,Residential Gap B,3.202,False,40
+L8,Airoli Office/Residential Area,Z01,Nerul North,3.808,False,90
+L8,Airoli Office/Residential Area,Z02,Nerul South,4.974,False,75
+L8,Airoli Office/Residential Area,Z03,Juinagar East,3.754,False,70
+L8,Airoli Office/Residential Area,Z04,Sanpada Central,4.472,False,65
+L8,Airoli Office/Residential Area,Z05,Turbhe Industrial,2.062,False,95
+L8,Airoli Office/Residential Area,Z06,Vashi West,2.154,False,85
+L8,Airoli Office/Residential Area,Z07,Airoli North,0.825,True,80
+L8,Airoli Office/Residential Area,Z08,Ghansoli Central,1.414,True,75
+L8,Airoli Office/Residential Area,Z09,CBD Belapur,6.946,False,80
+L8,Airoli Office/Residential Area,Z10,Seawoods West,5.029,False,70
+L8,Airoli Office/Residential Area,Z11,Kharghar Central,7.046,False,90
+L8,Airoli Office/Residential Area,Z12,Ulwe Growth Zone,9.126,False,60
+L8,Airoli Office/Residential Area,Z13,Belapur East,7.432,False,55
+L8,Airoli Office/Residential Area,Z14,Kopar Khairane,1.5,True,85
+L8,Airoli Office/Residential Area,Z15,Residential Gap A,5.722,False,45
+L8,Airoli Office/Residential Area,Z16,Residential Gap B,5.408,False,40
+L9,Sanpada Transit Area,Z01,Nerul North,2.236,False,90
+L9,Sanpada Transit Area,Z02,Nerul South,2.059,False,75
+L9,Sanpada Transit Area,Z03,Juinagar East,0.7,True,70
+L9,Sanpada Transit Area,Z04,Sanpada Central,0.707,True,65
+L9,Sanpada Transit Area,Z05,Turbhe Industrial,3.041,False,95
+L9,Sanpada Transit Area,Z06,Vashi West,2.267,False,85
+L9,Sanpada Transit Area,Z07,Airoli North,5.077,False,80
+L9,Sanpada Transit Area,Z08,Ghansoli Central,4.743,False,75
+L9,Sanpada Transit Area,Z09,CBD Belapur,3.5,False,80
+L9,Sanpada Transit Area,Z10,Seawoods West,3.048,False,70
+L9,Sanpada Transit Area,Z11,Kharghar Central,5.248,False,90
+L9,Sanpada Transit Area,Z12,Ulwe Growth Zone,5.281,False,60
+L9,Sanpada Transit Area,Z13,Belapur East,4.329,False,55
+L9,Sanpada Transit Area,Z14,Kopar Khairane,3.64,False,85
+L9,Sanpada Transit Area,Z15,Residential Gap A,5.122,False,45
+L9,Sanpada Transit Area,Z16,Residential Gap B,1.118,True,40
+L10,Ghansoli Residential Area,Z01,Nerul North,3.905,False,90
+L10,Ghansoli Residential Area,Z02,Nerul South,5.166,False,75
+L10,Ghansoli Residential Area,Z03,Juinagar East,4.294,False,70
+L10,Ghansoli Residential Area,Z04,Sanpada Central,5.22,False,65
+L10,Ghansoli Residential Area,Z05,Turbhe Industrial,2.121,False,95
+L10,Ghansoli Residential Area,Z06,Vashi West,3.015,False,85
+L10,Ghansoli Residential Area,Z07,Airoli North,0.728,True,80
+L10,Ghansoli Residential Area,Z08,Ghansoli Central,0.5,True,75
+L10,Ghansoli Residential Area,Z09,CBD Belapur,7.106,False,80
+L10,Ghansoli Residential Area,Z10,Seawoods West,4.974,False,70
+L10,Ghansoli Residential Area,Z11,Kharghar Central,6.745,False,90
+L10,Ghansoli Residential Area,Z12,Ulwe Growth Zone,9.351,False,60
+L10,Ghansoli Residential Area,Z13,Belapur East,7.463,False,55
+L10,Ghansoli Residential Area,Z14,Kopar Khairane,1.414,True,85
+L10,Ghansoli Residential Area,Z15,Residential Gap A,5.224,False,45
+L10,Ghansoli Residential Area,Z16,Residential Gap B,6.042,False,40
+L11,Kopar Khairane Commercial Area,Z01,Nerul North,2.5,False,90
+L11,Kopar Khairane Commercial Area,Z02,Nerul South,3.754,False,75
+L11,Kopar Khairane Commercial Area,Z03,Juinagar East,2.973,False,70
+L11,Kopar Khairane Commercial Area,Z04,Sanpada Central,4.031,False,65
+L11,Kopar Khairane Commercial Area,Z05,Turbhe Industrial,0.707,True,95
+L11,Kopar Khairane Commercial Area,Z06,Vashi West,2.119,False,85
+L11,Kopar Khairane Commercial Area,Z07,Airoli North,1.879,True,80
+L11,Kopar Khairane Commercial Area,Z08,Ghansoli Central,1.118,True,75
+L11,Kopar Khairane Commercial Area,Z09,CBD Belapur,5.701,False,80
+L11,Kopar Khairane Commercial Area,Z10,Seawoods West,3.625,False,70
+L11,Kopar Khairane Commercial Area,Z11,Kharghar Central,5.558,False,90
+L11,Kopar Khairane Commercial Area,Z12,Ulwe Growth Zone,7.94,False,60
+L11,Kopar Khairane Commercial Area,Z13,Belapur East,6.09,False,55
+L11,Kopar Khairane Commercial Area,Z14,Kopar Khairane,0.0,True,85
+L11,Kopar Khairane Commercial Area,Z15,Residential Gap A,4.23,False,45
+L11,Kopar Khairane Commercial Area,Z16,Residential Gap B,4.743,False,40
+L12,Ulwe Growth Area,Z01,Nerul North,5.315,False,90
+L12,Ulwe Growth Area,Z02,Nerul South,4.061,False,75
+L12,Ulwe Growth Area,Z03,Juinagar East,5.463,False,70
+L12,Ulwe Growth Area,Z04,Sanpada Central,5.59,False,65
+L12,Ulwe Growth Area,Z05,Turbhe Industrial,7.106,False,95
+L12,Ulwe Growth Area,Z06,Vashi West,7.341,False,85
+L12,Ulwe Growth Area,Z07,Airoli North,9.64,False,80
+L12,Ulwe Growth Area,Z08,Ghansoli Central,8.846,False,75
+L12,Ulwe Growth Area,Z09,CBD Belapur,2.121,False,80
+L12,Ulwe Growth Area,Z10,Seawoods West,4.42,False,70
+L12,Ulwe Growth Area,Z11,Kharghar Central,4.23,False,90
+L12,Ulwe Growth Area,Z12,Ulwe Growth Zone,0.2,True,60
+L12,Ulwe Growth Area,Z13,Belapur East,2.119,False,55
+L12,Ulwe Growth Area,Z14,Kopar Khairane,7.81,False,85
+L12,Ulwe Growth Area,Z15,Residential Gap A,5.787,False,45
+L12,Ulwe Growth Area,Z16,Residential Gap B,4.528,False,40

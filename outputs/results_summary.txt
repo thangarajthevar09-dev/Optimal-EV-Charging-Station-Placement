@@ -1,0 +1,28 @@
+OPTIMAL EV CHARGING STATION PLACEMENT — RUN SUMMARY
+=======================================================
+
+IMPORTANT: Dataset positions, demand weights, costs and outputs are illustrative/simulated.
+Coverage is based on straight-line distance in an illustrative local coordinate grid, not road routes.
+Coverage radius used: 2.0 illustrative km
+Candidate sites: 12 | Demand zones: 16
+
+Candidate ranking (top to bottom):
+ ID                  Candidate area  Priority_score  Score_per_cost  Grid_feasible
+ L5          Turbhe Industrial Area       88.333333        6.309524           True
+ L9            Sanpada Transit Area       81.666667        6.282051           True
+ L1           Nerul Railway Station      100.000000        5.555556           True
+ L2           Juinagar Station Area       88.333333        5.520833           True
+L10       Ghansoli Residential Area       88.333333        5.520833           True
+L12                Ulwe Growth Area       76.666667        5.476190           True
+L11  Kopar Khairane Commercial Area       90.000000        4.736842           True
+ L8  Airoli Office/Residential Area       66.666667        4.444444           True
+ L4 Seawoods Residential/Commercial       73.333333        4.313725           True
+ L3         CBD Belapur Transit Hub       78.333333        3.916667           True
+ L6           Kharghar Central Area       73.333333        3.859649           True
+ L7       Vashi Market/Transit Area       58.333333        2.777778          False
+
+Budget scenarios:
+Budget_scenario  Budget_units_illustrative  Stations_selected  Cost_used_units  Weighted_coverage_percent_proxy  Utilization_percent_proxy                                                                                                                                 Selected_areas
+            Low                         35                  2             34.0                             60.8                       76.7                                                                                                Turbhe Industrial Area; CBD Belapur Transit Hub
+         Medium                         65                  4             62.0                             83.2                       72.5                                          Turbhe Industrial Area; CBD Belapur Transit Hub; Airoli Office/Residential Area; Sanpada Transit Area
+           High                        110                  6             95.0                            100.0                       71.1 Turbhe Industrial Area; CBD Belapur Transit Hub; Airoli Office/Residential Area; Sanpada Transit Area; Kharghar Central Area; Ulwe Growth Area
